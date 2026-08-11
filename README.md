@@ -8,6 +8,9 @@ understanding and explanation.
 See [DESIGN.md](DESIGN.md) for architecture, scoring methodology, and key
 tradeoffs.
 
+**Live demo**: [fde-exam-qjuqx4p8guappkyekjssjjt.streamlit.app](https://fde-exam-qjuqx4p8guappkyekjssjjt.streamlit.app/)
+(no setup needed — just open the link and start asking questions)
+
 ## Setup
 
 **1. Install dependencies** (Python 3.11+):
